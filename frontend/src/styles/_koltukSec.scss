@@ -1,0 +1,15 @@
+.koltukSec{
+    i{
+        font-size: 75px;
+        &:hover{
+            color: $danger;
+        }
+    }
+}
+// @include media-breakpoint-down(md){
+//     .koltukSec{
+//         img{
+//             min-width: 50px;
+//         }
+//     }
+// }
